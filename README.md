@@ -1,6 +1,6 @@
 ## My Diary
 
-My Diarty is an online journal where users can pen down their thoughts and feelings.
+My Diary is an online journal where users can pen down their thoughts and feelings.
 
 ## Installation
 
@@ -28,12 +28,30 @@ Alternatively,you can clone this repo and test it locally.
 ## API Endpoints
 
 GET/entries
+
+
 GET/entries/<entryId>
+  
+  
 POST/entries
-PUT/entries/<entryId>  
+
+
+PUT/entries/<entryId>
+  
+  
 POST/auth/signup
+
+
 POST/auth/login
+
+
 GET/entries
+
+
 GET/entries/<entryId>
+  
+  
 POST/entries
+
+
 PUT/ entries/<entryId>

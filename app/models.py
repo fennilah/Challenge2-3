@@ -2,8 +2,7 @@ class Entry():
 
       Entries=[]
 
-@classmethod
-    
+
     def get_id_entry(self, date, entry):
         self.date = date
         self.entry = entry
